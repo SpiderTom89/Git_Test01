@@ -1,4 +1,4 @@
 Dies ist ein Text von 01_01
 Version 2
 Version 3
-Version 4 Person B
+Version 4 Person A und B
